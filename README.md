@@ -1,9 +1,6 @@
-# JS6Demo
+# Bootstrap Grid Demo
 
-Bootstrap Grid Demo
-
-
-JavaScript ES6 Examples
+# JavaScript ES6 Examples
 
 -> Objects
 
