@@ -2,7 +2,7 @@
 
 Bootstrap Grid Demo
 
-JavaScript ES6 Examples
+JavaScript ES6 Examples/n
 -> Objects
 -> Object Destructuring
 -> Template literals
